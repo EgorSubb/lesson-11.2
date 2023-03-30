@@ -1,5 +1,5 @@
 def input_upper(user_input):
-    """Делает буквы заглавными"""
+    """Делает буквы Заглавными"""
     word_upper = user_input.upper()
     return word_upper
 
